@@ -43,27 +43,34 @@ export const webData = [
     },
     {
         id: 7,
-        title: "Movie Application",
-        desc: "This app was built using React.JS, Movie Database API and styled-components",
+        title: "Movie Searching App",
+        desc: "This app was built using React.JS, Movie Database API and styled-components.",
         img: "assets/movies.jpg",
         url: "https://mavic-movies.netlify.app/"
     },
     {
         id: 8,
+        title: "Movie Trailer App",
+        desc: "This app was built using Next.js, Graphql, and Graphcms.",
+        img: "assets/movie-22.jpg",
+        url: "https://mavic-movies.vercel.app/"
+    },
+    {
+        id: 9,
         title: "Booklist",
         desc: "This app was created using HTML, bootstrap and OOP in Javascript. Data here is stored using the browser's local storage.",
         img: "assets/booklist.png",
         url: "https://mavic01.github.io/Book-List/#"
     },
     {
-        id: 9,
+        id: 10,
         title: "Weather App",
         desc: "This app was built using HTML, CSS and Node in the backend.",
-        img: "assets/weather-app.jpg",
+        img: "assets/weather-app.jpgboris",
         url: "https://mavic-wx.herokuapp.com/"
     },
     {
-        id: 10,
+        id: 11,
         title: "Google Clone",
         desc: "This app was built using React.JS and tailwind css. Data was fetched from rapid API using axios.",
         img: "assets/search.jpg",
