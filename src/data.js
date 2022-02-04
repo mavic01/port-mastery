@@ -66,7 +66,7 @@ export const webData = [
         id: 10,
         title: "Weather App",
         desc: "This app was built using HTML, CSS and Node in the backend.",
-        img: "assets/weather-app.jpgboris",
+        img: "assets/weather-app.jpg",
         url: "https://mavic-wx.herokuapp.com/"
     },
     {
