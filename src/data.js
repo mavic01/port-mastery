@@ -75,6 +75,13 @@ export const webData = [
         desc: "This app was built using React.JS and tailwind css. Data was fetched from rapid API using axios.",
         img: "assets/search.jpg",
         url: "https://mavic-search.netlify.app/search"
+    },
+    {
+        id: 12,
+        title: "Goal Setter App",
+        desc: "This is a full-stack web app built using the MERN Stack. Redux toolkit was used with React in the Frontend for state management. The app was deployed using heroku.",
+        img: "assets/goals.jpg",
+        url: "https://mavicgoals.herokuapp.com/login"
     }
 ]
 
