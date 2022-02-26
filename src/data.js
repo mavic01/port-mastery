@@ -82,6 +82,14 @@ export const webData = [
         desc: "This is a full-stack web app built using the MERN Stack. Redux toolkit was used with React in the Frontend for state management. The app was deployed using heroku.",
         img: "assets/goals.jpg",
         url: "https://mavicgoals.herokuapp.com/login"
+    },
+    ,
+    {
+        id: 13,
+        title: "Covid-Tracker",
+        desc: "This app was built using VueJS and tailwind css.",
+        img: "assets/co.jpg",
+        url: "https://covid-tracker-five-sigma.vercel.app/"
     }
 ]
 
