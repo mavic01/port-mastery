@@ -87,7 +87,7 @@ export const webData = [
     {
         id: 13,
         title: "Covid-Tracker",
-        desc: "This app was built using VueJS and tailwind css.",
+        desc: "This app was built using VueJS and tailwind css. Data was fetched from covid19api",
         img: "assets/co.jpg",
         url: "https://covid-tracker-five-sigma.vercel.app/"
     }
