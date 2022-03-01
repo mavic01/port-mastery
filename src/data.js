@@ -83,13 +83,19 @@ export const webData = [
         img: "assets/goals.jpg",
         url: "https://mavicgoals.herokuapp.com/login"
     },
-    ,
     {
         id: 13,
         title: "Covid-Tracker",
         desc: "This app was built using VueJS and tailwind css. Data was fetched from covid19api",
         img: "assets/co.jpg",
         url: "https://covid-tracker-five-sigma.vercel.app/"
+    },
+    {
+        id: 14,
+        title: "Random User Generator",
+        desc: "This app was built using VueJS CDN and random user api.",
+        img: "assets/random.jpg",
+        url: "https://mavic-random.vercel.app/"
     }
 ]
 
