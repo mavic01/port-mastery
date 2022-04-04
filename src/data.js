@@ -96,7 +96,14 @@ export const webData = [
         desc: "This app was built using VueJS CDN and random user api.",
         img: "assets/random.jpg",
         url: "https://mavic-random.vercel.app/"
-    }
+    },
+    {
+        id: 15,
+        title: "Multi-Step Form",
+        desc: "This app was built with reactjs and the react hook helper package.",
+        img: "assets/step.png",
+        url: "https://mavic-step-form.netlify.app/"
+    },    
 ]
 
 
