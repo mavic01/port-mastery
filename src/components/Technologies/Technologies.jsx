@@ -13,12 +13,17 @@ const Technologies = () =>  (
       <ListItem>
         <DiReact size="3rem"/>
         <ListContainer>Front-End</ListContainer>
-        <ListParagraph>Experience with <br /> React.js</ListParagraph>
+        <ListParagraph>Experience using <br /> React and Vue</ListParagraph>
       </ListItem>
       <ListItem>
         <DiFirebase size="3rem"/>
         <ListContainer>Back-End</ListContainer>
-        <ListParagraph>Experience with <br /> Node and Databases</ListParagraph>
+        <ListParagraph>Experience using <br /> Node and Databases</ListParagraph>
+      </ListItem>
+      <ListItem>
+        <DiFirebase size="3rem"/>
+        <ListContainer>Android</ListContainer>
+        <ListParagraph>Experience using <br /> Android studio and kotlin</ListParagraph>
       </ListItem>
     </List>
   </Section>

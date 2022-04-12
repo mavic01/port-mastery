@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionDivider />
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>I began my web development journey in 2020 during the pandemic and it has been an interesting experience ever since. I started with HTML, CSS and Vanila Javascript, then after a short while, I Immersed myself in the React library. I began my back-end journey with Node, Express and MongoDB. In some cases I also use Python and Django for my back-end. My hobbies include drawing and surfing the net.</SectionText>
+      <SectionText>I began my development journey in 2019 and it has been an interesting experience thus far. I started with HTML, CSS and Javascript, then after a short while, I Immersed myself in the React library. I began my back-end journey with NodeJs, Express and MongoDB. I recently started learning to build android apps using the kotlin programming language and android studio. My hobbies include drawing and surfing the net.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         {TimeLineData.map((item, index) => (
             <CarouselMobileScrollNode key={index} final={index === TOTAL_CAROUSEL_COUNT - 1}>

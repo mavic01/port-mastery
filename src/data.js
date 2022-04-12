@@ -100,10 +100,17 @@ export const webData = [
     {
         id: 15,
         title: "Multi-Step Form",
-        desc: "This app was built with reactjs and the react hook helper package.",
+        desc: "This app was built using reactjs and the react hook helper package.",
         img: "assets/step.png",
         url: "https://mavic-step-form.netlify.app/"
-    },    
+    },   
+    {
+        id: 16,
+        title: "Todo App",
+        desc: "This app was built using reactjs.",
+        img: "assets/todoo.png",
+        url: "https://mavic-todo.vercel.app/"
+    } 
 ]
 
 
