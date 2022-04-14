@@ -65,9 +65,9 @@ export const webData = [
     {
         id: 10,
         title: "Weather App",
-        desc: "This app was built using HTML, CSS and Node in the backend.",
-        img: "assets/weather-app.jpg",
-        url: "https://mavic-wx.herokuapp.com/"
+        desc: "This app was built using react and open weather map API",
+        img: "assets/mavvic-weather.png",
+        url: "https://mavic-weather.netlify.app/"
     },
     {
         id: 11,
