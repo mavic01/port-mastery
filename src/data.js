@@ -69,6 +69,7 @@ export const webData = [
         img: "assets/mavvic-weather.png",
         url: "https://mavic-weather.netlify.app/"
     },
+        // url: "https://mavic-wx.herokuapp.com/"
     {
         id: 11,
         title: "Google Clone",
