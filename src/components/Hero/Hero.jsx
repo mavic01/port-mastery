@@ -7,8 +7,8 @@ import { LeftSection } from './HeroStyles';
 const Hero = () => (
   <Section row nopadding>
     <LeftSection>
-      <SectionTitle main center>
-        Hey I'm Victor<br/>Welcome to My Corner of the World
+      <SectionTitle main center style={{fontSize: '40px'}}>
+        Hey I'm Victor, Welcome to My Corner of the World
       </SectionTitle>
       <SectionText>
         I'm a Full-Stack web developer. My speciality is the MERN-Stack

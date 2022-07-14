@@ -111,7 +111,21 @@ export const webData = [
         desc: "This app was built using reactjs.",
         img: "assets/todoo.png",
         url: "https://mavic-todo.vercel.app/"
-    } 
+    },
+    {
+        id: 17,
+        title: "Nike Store",
+        desc: "This app was built using HTML, CSS and Javascript.",
+        img: "assets/shop.png",
+        url: "https://mavic01.github.io/shop/"
+    },
+    {
+        id: 18,
+        title: "Sidebar Menu",
+        desc: "This app was built using HTML, CSS and Javascript.",
+        img: "assets/sidebar.png",
+        url: "https://mavic01.github.io/responsive-sidebar/"
+    }
 ]
 
 
