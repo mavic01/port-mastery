@@ -129,9 +129,16 @@ export const webData = [
     {
         id: 19,
         title: "QR Code Generator",
-        desc: "This app was built using HTML, Tailwind CSS, Javascript and QRCode cdn",
+        desc: "This app was built using HTML, Tailwind CSS, Javascript and QRCode cdn.",
         img: "assets/qrcodee.png",
         url: "https://qrcode-six-alpha.vercel.app/"
+    },
+    {
+        id: 20,
+        title: "Alphabet Scroll Animation",
+        desc: "This app was built using HTML, CSS, Javascript.",
+        img: "assets/alphabet.png",
+        url: "https://mavic-alphabet.vercel.app/"
     }
 ]
 
