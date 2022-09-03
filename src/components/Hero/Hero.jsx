@@ -11,7 +11,7 @@ const Hero = () => (
         Hey I'm Victor, Welcome to My Corner of the World
       </SectionTitle>
       <SectionText>
-        I'm a Full-Stack web developer. My speciality is the MERN-Stack
+        I'm a Frontend web developer.
       </SectionText>
       {/* <Button onClick={() => window.location = "#projects"}>Learn More</Button> */}
       <Button><a href="#about">Learn More</a></Button>

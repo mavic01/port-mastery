@@ -139,6 +139,13 @@ export const webData = [
         desc: "This app was built using HTML, CSS, Javascript.",
         img: "assets/alphabet.png",
         url: "https://mavic-alphabet.vercel.app/"
+    },
+    {
+        id: 21,
+        title: "CB Cloud ~ Rotating Navbar",
+        desc: "This app was built using HTML, CSS, Javascript.",
+        img: "assets/cloudds.png",
+        url: "https://cb-cloud.vercel.app/"
     }
 ]
 
