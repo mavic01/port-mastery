@@ -146,6 +146,13 @@ export const webData = [
         desc: "This app was built using HTML, CSS, Javascript.",
         img: "assets/cloudds.png",
         url: "https://cb-cloud.vercel.app/"
+    },
+    {
+        id: 22,
+        title: "Form Wave Effect",
+        desc: "This app was built using HTML, CSS, Javascript.",
+        img: "assets/form-wave-effect.png",
+        url: "https://form-wave-effect.vercel.app/"
     }
 ]
 
