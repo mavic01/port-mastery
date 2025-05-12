@@ -17,7 +17,7 @@ const Header = () =>  (
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/mavic01/" target="_blank" rel="noreferrer"><AiFillGithub size="2.5rem"/></SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/victor-iberi-018904175/" target="_blank" rel="noreferrer"><AiFillLinkedin size="2.5rem"/></SocialIcons>
+      <SocialIcons href="https://www.linkedin.com/in/victor-iberi" target="_blank" rel="noreferrer"><AiFillLinkedin size="2.5rem"/></SocialIcons>
       <SocialIcons href="https://www.instagram.com/mavic_art/" target="_blank" rel="noreferrer"><AiFillInstagram size="2.5rem"/></SocialIcons>
     </Div3>
   </Container>
